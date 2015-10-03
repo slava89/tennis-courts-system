@@ -1,0 +1,22 @@
+{
+  "name": "tennis-courts-system",
+  "version": "1.0.0",
+  "description": "Tennis courts booking made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slava89/tennis-courts-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slava89/tennis-courts-system/issues"
+  },
+  "homepage": "https://github.com/slava89/tennis-courts-system#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
